@@ -1,0 +1,4 @@
+@mixin ribbon-styles($ribbon-color, $ribbon-states-color) {
+  border-color: $btn-color;
+  color: $btn-color;
+}

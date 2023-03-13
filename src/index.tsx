@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './assets/scss/xat-ui.scss?v=2.0.0';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
